@@ -1,6 +1,7 @@
 version=1
 title=RPG Skill Path
-description=[h2]API to make certain skills selectable in character creation.[/h2]
+description=[h2]Generates traits for selecting 'primary' skills.[/h2]
+description=[h2]Converts a few vanilla skills into the 'secondary' category.[/h2]
 description=[h3]Original code written by [b]Champygnakx[/b].[/h3]
 description=[h3](Original and This Mod) Commissioned by [b]MrAtomicDuck[/b].[/h3]
 description=

@@ -1,6 +1,7 @@
 id=RPGSkillPath
 name=RPG Skill Path
-description=API to make certain skills selectable in character creation.
+description=Generates traits for selecting 'primary' skills.
+description=Converts a few vanilla skills into the 'secondary' category.
 poster=poster.png
 tags=Build 41
 versionMin=41.0
