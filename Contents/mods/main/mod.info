@@ -1,6 +1,6 @@
-id=ChuckTemplate
-name=ChuckTemplate
-description= 
+id=RPGSkillPath
+name=RPG Skill Path
+description=API to make certain skills selectable in character creation.
 poster=poster.png
 tags=Build 41
 versionMin=41.0
