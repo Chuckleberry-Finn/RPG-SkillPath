@@ -1,5 +1,5 @@
 version=1
-id=2987856538
+id=3020684454
 title=RPG Skill Path
 description=[h2]Generates traits for selecting 'primary' skills.[/h2]
 description=[h2]Converts a few vanilla skills into the 'secondary' category.[/h2]
@@ -8,7 +8,9 @@ description=[h3](Original and This Mod) Commissioned by [b]MrAtomicDuck[/b].[/h3
 description=
 description=[url=https://ko-fi.com/chuckleberryfinn][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/kofi.png[/img][/url]
 description=
+description=[url=https://discord.gg/SReMnbV4V7][img]https://raw.githubusercontent.com/Chuckleberry-Finn/chuckImages/main/PZmodCommBanner1.png[/img][/url]
+description=
 description=
 description=[h3]Copyright 2023 Chuckleberry Finn. This item is not authorized for posting on Steam, except under the Steam account named Chuckleberry Finn.[/h3]
 tags=Build 41
-visibility=unlisted
+visibility=public

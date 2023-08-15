@@ -2,4 +2,5 @@ local rpgSkillPath = require "rpgSkillPath_main"
 
 local function initPrimarySkillTraits() rpgSkillPath.addPrimaryTraitsFromCraftingPerks() end
 
-Events.OnGameBoot.Add(initPrimarySkillTraits)
+---TEMP DISABLE
+--Events.OnGameBoot.Add(initPrimarySkillTraits)
